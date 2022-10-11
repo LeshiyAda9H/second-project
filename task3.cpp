@@ -36,7 +36,7 @@ int main()
 	    cout<<' ';
 	    for (int k=n-1; i<=k; --k)
 	    {
-	        if (k!=4)
+	        if (k!=n-1)
 	        {
 	        cout<<'*';
 	        }
